@@ -1,4 +1,4 @@
-<p type=bold>Sosyal Medya Analizi</p>
+<h2>Sosyal Medya Analizi</h2>
 
 ![image](https://github.com/hasankilic0663/Sosyal-Medya-Analizi/assets/101570706/27b56710-8ea1-40e8-a5cf-5bf518038624)
 ![image](https://github.com/hasankilic0663/Sosyal-Medya-Analizi/assets/101570706/3d2679be-6031-4330-824f-fc1345a394ed)
