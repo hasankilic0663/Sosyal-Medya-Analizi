@@ -1,7 +1,6 @@
 <h2>Sosyal Medya Analizi</h2>
-Burada İnstagram , FaceBook,Tiktok, X ve Youtube gibi platformlarda bağımlı olan insanların ekran süresi  analizi gösterdiğimiz bir site 
-<h3>Chart.JS</h3>
-<p>Burada chart,js kütüphanesi kullanarak pasta grafiği ve sütun grafiği veriyoruz.</p>
+Burada İnstagram , FaceBook,Tiktok, X ve Youtube gibi platformlarda bağımlı olan insanların ekran süresi  analizi gösterdiğimiz bir site yapıyoruz. 
+HTML , CSS ve Bootstrap kullanarak yapıldı. 
 
 ![image](https://github.com/hasankilic0663/Sosyal-Medya-Analizi/assets/101570706/27b56710-8ea1-40e8-a5cf-5bf518038624)
 <br>
